@@ -8,13 +8,21 @@ A fun random name picker built for the **Product People** team's weekly "Onigiri
 
 ​
 Google Calendar Meeting
+
 ↓ (1 min before)
+
 Google Workspace Studio Flow
+
 ↓ (writes accepted guests)
+
 Google Sheet (Cell A1 = comma-separated names)
+
 ↓ (reads names)
+
 Apps Script Web App (the picker UI)
+
 ↓ (embedded via iframe)
+
 Netlify (clean public URL)
 
 ## Architecture
