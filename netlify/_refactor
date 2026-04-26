@@ -1,0 +1,2 @@
+/ https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec 302
+Keep this file instead of index.html if setting a redirect. If the opposite is true, remove this file instead.
